@@ -2,7 +2,7 @@
 Cake-api is a challenge for Wizeline's node bootcamp. 
 
 ## Getting started
-1.Clone repo and enter the repo
+1.Clone and enter the repo
 ```
 git clone https://github.com/Rafasu/cake-api.git
 cd cake-api
